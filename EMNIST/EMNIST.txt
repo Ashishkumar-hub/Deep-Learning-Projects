@@ -1,1 +1,9 @@
+This was one of the kaggle competitions I took a part in. 
 
+Kaglle link: https://www.kaggle.com/ashish12350/emnist-using-cnn-87-15-test-accuracy
+
+About this file: 
+
+Training a model for classifying handwritten letters and digits in Extended-MNIST (EMNIST) dataset. 
+The EMNIST include 52 letters (capital and small letters) and 10 digits. 
+I used the default test dataset (emnist-byclass-test) to evaluate model.
