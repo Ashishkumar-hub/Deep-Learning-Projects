@@ -1,4 +1,4 @@
-Malaria Detection using CNN from Sctratch and Transfer Learning
+#Malaria Detection using CNN from Sctratch and Transfer Learning
 
 Introduction
 
